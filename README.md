@@ -15,22 +15,6 @@ I build all sorts of things — from **WordPress/AdSense monetization plugins** 
 - ⛓️ **Crypto / EVM** — Solidity, ethers, viem
 - 🤖 **Automation** — n8n, bots & scripts
 
----
-
-### ¡Hola! 👋
-
-Soy **0xCafe.....bEbE**, haciendo cosas por aquí y por allá. Construyo **plugins de WordPress para AdSense/monetización**, **web apps y CRMs**, herramientas **cripto/EVM** y scripts de automatización.
-
-**En qué trabajo**
-
-- 💰 **AdSense / monetización** — plugins y herramientas para WordPress
-- 🧩 **Web apps y CRMs** — React, PHP, APIs REST
-- ⛓️ **Cripto / EVM** — Solidity, ethers, viem
-- 🤖 **Automatización** — n8n, bots y scripts
-
----
-
-> _"I don't believe in doing just one thing."_
 
 [![GitHub](https://img.shields.io/badge/GitHub-wantmyusername-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/wantmyusername)
 
